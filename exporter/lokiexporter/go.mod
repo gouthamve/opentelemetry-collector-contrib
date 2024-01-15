@@ -13,7 +13,7 @@ require (
 	go.opentelemetry.io/collector v0.80.0
 	go.opentelemetry.io/collector/component v0.80.0
 	go.opentelemetry.io/collector/config/confighttp v0.80.0
-	go.opentelemetry.io/collector/config/configopaque v0.80.0
+	go.opentelemetry.io/collector/config/configopaque v0.92.0
 	go.opentelemetry.io/collector/config/configtls v0.80.0
 	go.opentelemetry.io/collector/confmap v0.80.0
 	go.opentelemetry.io/collector/consumer v0.80.0
@@ -70,7 +70,7 @@ require (
 	go.opentelemetry.io/otel/metric v1.16.0 // indirect
 	go.opentelemetry.io/otel/trace v1.16.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
-	go.uber.org/goleak v1.2.1 // indirect
+	go.uber.org/goleak v1.3.0 // indirect
 	golang.org/x/exp v0.0.0-20230307190834-24139beb5833 // indirect
 	golang.org/x/net v0.11.0 // indirect
 	golang.org/x/sys v0.9.0 // indirect
